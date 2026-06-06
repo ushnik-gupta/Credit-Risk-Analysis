@@ -1,0 +1,9 @@
+Customer_ID,Age,Income,Loan_Amount,Credit_Score,Employment_Years,Loan_Status,Risk_Level
+C001,25,45000,150000,710,3,Approved,Low
+C002,41,90000,350000,820,10,Approved,Low
+C003,35,32000,200000,560,2,Rejected,High
+C004,28,55000,180000,690,4,Approved,Medium
+C005,52,120000,450000,790,15,Approved,Low
+C006,31,28000,250000,510,1,Rejected,High
+C007,44,65000,300000,670,8,Approved,Medium
+C008,29,38000,220000,590,2,Rejected,High
